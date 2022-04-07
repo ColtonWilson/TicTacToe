@@ -12,10 +12,4 @@ Project is created with:
 * Visual Studio 2019
 	
 ## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+To run this project, you can do a few things. The simplist is to clone the repository into your favorite IDE (*I use visual studio*). 
